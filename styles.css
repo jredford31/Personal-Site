@@ -1,0 +1,29 @@
+body{
+  background-color: #DECBB7;
+}
+hr{
+  border-top-color: #433633;
+  border-style: none;
+  border-top-style: double;
+  border-top-width: 10px;
+  height: 3px;
+  width: 66%;
+  align: center;
+}
+h1{
+  color: #433633;
+}
+h3{
+  color: #433633;
+}
+p{
+  color: #4C4742;
+  font-size: 14pt;
+}
+a{
+  color: #413C3A;
+}
+img{
+  width: 98%;
+  max-width: 500px;
+}
